@@ -1,0 +1,13 @@
+---
+organization:
+  name: coderberry
+
+app:
+  name: apm
+  directory: /Users/eberry/Code/Containers/apm
+
+docker:
+  directory: /Users/eberry/Code/Containers/apm
+  default_service: 
+  compose_files:
+    - docker-compose.yml

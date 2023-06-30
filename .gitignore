@@ -1,0 +1,4 @@
+data/alertmanager/**/*
+data/clickhouse/**/*
+data/signoz/**/*
+data/zookeeper/**/*
